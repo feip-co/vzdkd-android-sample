@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Vezdecode</string>
+    <string name="action_search">Поиск</string>
+
+    <string name="label_weight">Вес</string>
+
+    <string name="label_energy_value">Энерг. ценность</string>
+    <string name="label_energy_value_measure">%1$s ккал</string>
+
+    <string name="label_energy_proteins">Белки</string>
+    <string name="label_energy_proteins_measure">%1$s г</string>
+
+    <string name="label_energy_fats">Жиры</string>
+    <string name="label_energy_fats_measure">%1$s г</string>
+
+    <string name="label_energy_carbohydrates">Углеводы</string>
+    <string name="label_energy_carbohydrates_measure">%1$s г</string>
+    <string name="title_cart">Корзина</string>
+    <string name="action_place_order_for">Заказать за %1$s</string>
+    <string name="hint_search">Найти блюдо</string>
+</resources>
